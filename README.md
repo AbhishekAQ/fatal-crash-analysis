@@ -1,4 +1,4 @@
-# 🚗 Data Mining Project — USA Fatal Crash Analysis (2015–2022)
+# Data Mining Project — USA Fatal Crash Analysis (2015–2022)
 
 > Master 1 MLDM | Université Jean Monnet de Saint-Étienne  
 > Author: Abhishe KUMAR  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 This project analyzes fatal traffic crashes across the United States between **2015 and 2022** using real-world data sourced from Kaggle. We perform end-to-end data mining workflows, including:
 
@@ -19,7 +19,7 @@ This project analyzes fatal traffic crashes across the United States between **2
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```bash
 .
@@ -40,6 +40,6 @@ This project analyzes fatal traffic crashes across the United States between **2
 │   ├── state_clustering.png
 │   └── actual_vs_predicted_fatals.png
 ├── report/
-│   └── crash_analysis_report.tex  # Final LaTeX report
+│   └── DataMiningReport.pdf       # Final PDF report
 └── README.md                      # Project overview & setup instructions
 
